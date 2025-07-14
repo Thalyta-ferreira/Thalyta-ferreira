@@ -8,8 +8,10 @@
 
 ## 🧩 Sobre mim
 
-🌸 Tenho formação em **Análise e Desenvolvimento de Sistemas**. 
-🔒 Interessada em **Segurança da Informação** e **Desenvolvimento Front-End**.  
+🌸 Tenho formação em **Análise e Desenvolvimento de Sistemas**.
+
+🔒 Interessada em **Segurança da Informação** e **Desenvolvimento Front-End**. 
+
 💡 Busco crescer pessoal e profissionalmente todos os dias.
 
 ---
