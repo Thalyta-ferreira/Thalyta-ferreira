@@ -18,10 +18,16 @@
 
 ## 💻 Habilidades
 
+
 <div style="display: inline_block">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <p>HTML5 - Estruturação de páginas web com semântica e boas práticas.</p>
+
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <p>CSS3 - Estilização de páginas com foco em responsividade e layout flexível.</p>
+
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <p>Git - Controle de versão para organização e colaboração em projetos.</p>
 </div>
 
 ---
